@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        
+        
+        <!--todo: configure a hibernate connection url for postgreSQL database test_db_one_to_many-->
+    	<!--database name: test_db_one_to_many-->
+    	<!--todo: configure a hibernate connection username: your_postgresql_username-->
+    	<!--todo: configure a hibernate connection password: your_postgresql_password-->
+    	<!--todo: configure a hibernate SQL dialect for PostgreSQL database-->
+    	<!--todo: configure to log sql in console-->
+    	<!--todo: configure auto create of tables as per entity definitions-->
+    	<!--todo: configure hibernate mapping class-->
+        
+    </session-factory>
+</hibernate-configuration>
